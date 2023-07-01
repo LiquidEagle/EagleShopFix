@@ -1,0 +1,6 @@
+name: EagleShopFix
+version: '1.0'
+main: org.eagle.eagleshopfix.EagleShopFix
+depend:
+  - PrisonCells
+  - Shop

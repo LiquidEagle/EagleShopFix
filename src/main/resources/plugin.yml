@@ -1,0 +1,6 @@
+name: EagleShopFix
+version: '${project.version}'
+main: org.eagle.eagleshopfix.EagleShopFix
+depend:
+  - PrisonCells
+  - Shop
